@@ -1,1 +1,0 @@
-extern void CTRL_init(void);
